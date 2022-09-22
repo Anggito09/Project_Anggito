@@ -107,5 +107,7 @@ class Program{
         Civic civic1 = new Civic();
         civic1.ban = new Bridgestone();
         civic1.VtecKickedin();
+        Honda honda1 = new Honda #ini error
+        honda1.VtecKickedin(); #ini error
     }
 }
